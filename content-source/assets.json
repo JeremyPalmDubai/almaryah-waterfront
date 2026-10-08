@@ -1,0 +1,171 @@
+{
+  "tower": {
+    "width": 797,
+    "height": 1043,
+    "page": 2,
+    "variants": [
+      480,
+      797
+    ]
+  },
+  "aerial": {
+    "width": 1488,
+    "height": 968,
+    "page": 3,
+    "variants": [
+      480,
+      960,
+      1488
+    ]
+  },
+  "architecture": {
+    "width": 1516,
+    "height": 968,
+    "page": 4,
+    "variants": [
+      480,
+      960,
+      1516
+    ]
+  },
+  "district": {
+    "width": 1516,
+    "height": 968,
+    "page": 5,
+    "variants": [
+      480,
+      960,
+      1516
+    ]
+  },
+  "arrival": {
+    "width": 1515,
+    "height": 967,
+    "page": 9,
+    "variants": [
+      480,
+      960,
+      1515
+    ]
+  },
+  "lobby": {
+    "width": 1515,
+    "height": 968,
+    "page": 10,
+    "variants": [
+      480,
+      960,
+      1515
+    ]
+  },
+  "lounge": {
+    "width": 1515,
+    "height": 967,
+    "page": 12,
+    "variants": [
+      480,
+      960,
+      1515
+    ]
+  },
+  "living": {
+    "width": 1516,
+    "height": 968,
+    "page": 15,
+    "variants": [
+      480,
+      960,
+      1516
+    ]
+  },
+  "dining": {
+    "width": 1515,
+    "height": 967,
+    "page": 16,
+    "variants": [
+      480,
+      960,
+      1515
+    ]
+  },
+  "bedroom": {
+    "width": 1515,
+    "height": 968,
+    "page": 17,
+    "variants": [
+      480,
+      960,
+      1515
+    ]
+  },
+  "bathroom": {
+    "width": 1515,
+    "height": 969,
+    "page": 19,
+    "variants": [
+      480,
+      960,
+      1515
+    ]
+  },
+  "outdoor-pool": {
+    "width": 1515,
+    "height": 967,
+    "page": 22,
+    "variants": [
+      480,
+      960,
+      1515
+    ]
+  },
+  "indoor-pool": {
+    "width": 1515,
+    "height": 968,
+    "page": 23,
+    "variants": [
+      480,
+      960,
+      1515
+    ]
+  },
+  "spa": {
+    "width": 1515,
+    "height": 967,
+    "page": 25,
+    "variants": [
+      480,
+      960,
+      1515
+    ]
+  },
+  "fitness": {
+    "width": 1515,
+    "height": 967,
+    "page": 27,
+    "variants": [
+      480,
+      960,
+      1515
+    ]
+  },
+  "cinema": {
+    "width": 1516,
+    "height": 967,
+    "page": 29,
+    "variants": [
+      480,
+      960,
+      1516
+    ]
+  },
+  "golf": {
+    "width": 1516,
+    "height": 968,
+    "page": 31,
+    "variants": [
+      480,
+      960,
+      1516
+    ]
+  }
+}

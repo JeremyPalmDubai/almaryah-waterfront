@@ -1,0 +1,92 @@
+{
+  "name": "The Ritz-Carlton Residences, Al Maryah Island",
+  "developer": "SAAS AM Properties LLC",
+  "origin": "https://almaryahwaterfront.com",
+  "operator": {
+    "name": null,
+    "email": null,
+    "address": null
+  },
+  "asOf": "2026-10-08",
+  "residenceCount": 165,
+  "handover": {
+    "year": 2030,
+    "quarter": 1,
+    "status": "target",
+    "source": "User-provided commercial brief; confirm in SPA"
+  },
+  "furnished": true,
+  "categories": [
+    {
+      "id": "one-bedroom",
+      "bedrooms": 1,
+      "fromAed": 4500000,
+      "areaSqm": null,
+      "unitSpecific": false
+    },
+    {
+      "id": "two-bedroom",
+      "bedrooms": 2,
+      "fromAed": null,
+      "areaSqm": null,
+      "variants": [
+        "residence",
+        "duplex"
+      ]
+    },
+    {
+      "id": "three-bedroom",
+      "bedrooms": 3,
+      "fromAed": null,
+      "areaSqm": null,
+      "variants": [
+        "residence",
+        "duplex"
+      ]
+    },
+    {
+      "id": "four-bedroom",
+      "bedrooms": 4,
+      "fromAed": null,
+      "areaSqm": null,
+      "variants": [
+        "residence",
+        "duplex"
+      ]
+    },
+    {
+      "id": "penthouse",
+      "bedrooms": null,
+      "fromAed": null,
+      "areaSqm": null
+    }
+  ],
+  "payment": {
+    "bookingPercent": 10,
+    "constructionPercent": 30,
+    "handoverPercent": 60,
+    "constructionInstallments": 6,
+    "installmentPercent": 5,
+    "intervalMonths": 6,
+    "firstDueDate": null,
+    "source": "User-provided 10/30/60 plan; exact contractual dates not supplied"
+  },
+  "fx": {
+    "aedPerUsd": "3.6725",
+    "indicative": true,
+    "source": "https://centralbank.ae/umbraco/Surface/Exchange/GetExchangeRateAllCurrency",
+    "checked": "2026-10-08"
+  },
+  "tally": {
+    "id": "44gVeA",
+    "language": "en",
+    "hiddenFieldsVerified": false,
+    "verifiedHiddenFields": [],
+    "formOpen": true
+  },
+  "sources": {
+    "visa": "https://www.adro.gov.ae/Visas/Types-of-Visas/Abu-Dhabi-Golden-Visa/Investors",
+    "icp": "https://icp.gov.ae/en/services/uae-golden-residency/",
+    "brochure": "brochure.pdf, 36 pages supplied by user"
+  }
+}
